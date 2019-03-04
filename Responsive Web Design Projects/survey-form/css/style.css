@@ -1,0 +1,79 @@
+body {
+ background-color: #d7a9d0;
+ text-align: center;
+ font-family: Helvetica;
+ min-width: 30px;
+}
+
+#fresh-form {
+ background-color: rgb(250, 250, 250);
+ margin: 0 auto;
+ border-radius: 4px;
+ width: 95%;
+  height: auto;
+ max-width: 800px;
+ padding: 10px;
+  
+}
+
+
+.labels {
+ display: inline-block;
+ text-align: right;
+ width: 40%;
+ padding: 5px;
+ vertical-align: top;
+ margin-top: 10px;
+}
+
+.input-right {
+ display: inline-block;
+ text-align: left;
+ width: 48%;
+ vertical-align: middle;
+}
+
+
+.input-field {
+ height: 20px;
+ width: 280px;
+ padding: 5px;
+ margin: 10px;
+ border: 1px solid #c0c0c0;
+ border-radius: 2px;
+}
+
+.dropdown {
+ height: 35px;
+ width: 140px;
+ padding: 5px;
+ margin: 10px;
+ margin-top: 15px;
+ border: 1px solid #c0c0c0;
+ border-radius: 2px;
+}
+
+.avelability, input[type="checkbox"] {
+    float: left;
+    margin-right: 5px;
+}
+
+
+.radio, .checkbox {
+ position: relative;
+ left: -43px;
+ margin-left: 10px;
+ display: block;
+ padding-bottom: 10px;
+}
+
+#submit {
+ background-color: #8259e0;
+ border-radius: 4px;
+ color: white;
+ font-size: 1em;
+ height: 40px;
+ width: 96px;
+ margin: 10px;
+ border: 0px solid;
+}
