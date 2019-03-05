@@ -87,17 +87,17 @@ nav ul li a {
 }
 
 .contact-details {
-	display: inline-block;
-	font-weight: bold;
-	margin: 0 35px 45px 35px;
-	list-style-type: none;
-	border: 2px solid #000;
-	border-radius: 100%;
-	width: 100px;
-	height: 100px;
-	line-height: 100px;
-	background: #74deef;
-	color: #e45d9b;
+  display: inline-block;
+  font-weight: bold;
+  margin: 0 35px 45px 35px;
+  list-style-type: none;
+  border: 2px solid #000;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  background: blue;
+  color: #e45d9b;
    text-decoration: none;
 }
 
@@ -162,3 +162,7 @@ footer {
  color: black;
  line-height: 40px;
 }
+
+.circle{
+  font-size: 3em;
+  }
